@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+}
+app-svgmap {
+    width: 70%;
+}
+app-info {
+    width: 30%;
+}
